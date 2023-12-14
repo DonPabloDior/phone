@@ -1,2 +1,2 @@
-from appe import run_code
-app = run_code()
+from appe import app
+app = app()
