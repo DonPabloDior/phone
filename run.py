@@ -1,3 +1,3 @@
-from python_phonebook_backend import appe
+import appe
 
 app = appe()
